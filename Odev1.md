@@ -1,21 +1,18 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-D   |Zehra Haktan Karabulut| 595 
+9-D   |Fahri Bora Sevgi |603
+9-D   |Gülnur Bengü Yaman|612    
 
-#  (buraya proje başlığını yazınız)
+#  (Making a Splash)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+''Making a Splash'' projesinin açıklamasında herhangi bir katı maddenin suya 50 santimetre yukarıdan bırakılması söyleniyor.Anlamı ''Sıçrama Oluşturmak'' olan bu projede sıçramanın anlamını,sıçramanın türlerini,sıçrama türlerinin birbiriyle karşılaştırılmasını,suya atılan farklı katı maddelerin etki etmesini gözlemleyeceğiz.Gözlemlemeyi yapabilmemiz için deney yapmamız gerekiyor.Yapacağımız deneyde herhangi bir katı maddenin suya 50 santimetre uzakta kalmasını sağlamak için bir çubuk,çubuğu sabit tutturabilmek ve içine su koyabilmek için cam bir kap ve bu yaptıklarımızı net bir şekilde gözlemleyebilmek için kamera gerekiyor.Sıçrama türlerini birbiriyle karşılaştırırken kameranın yavaş çekimi veya çoklu çekim özelliğini kullanacağız.En büyük amacımız sıçramayı en aza düşürmek,bunun için de kullanacağımız katı maddeler farklı olmalı.Örneğin ağırlıkları veya hacimleri farklı,bazı katı maddelerde delik olmasından dolayı sıçraması az veya fazla,birisi köşeli birisi köşesiz olabilir.Bu şekilde sıçramayı en aza indirebileceğimiz yolları denememiz gerekiyor.Sıçramayı en aza indirmek için kullanacağımız bir diğer yöntem ise suya düşürülecek katı maddenin hangi açıyla atılmasıdır.Örneğin farklı açılarla atılan iki aynı tür maddenin çıkardığı sıçramalar farklı olabilir. Sıçramayı en aza indirmeyi başardığımızda hangi etkenlerin sıçramayı en aza indirdiğini ve hangilerinin sıçrama seviyesini arttırdığını karşılaştırıp sonuca ulaşacağız.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. A. L. Yarin, Annu. Rev. Fluid Mech. 38, 159  2006.
+ 2.L. Xu, W. W. Zhang, and S. R. Nagel, Phys. Rev. Lett. 94, 184505 ?2005.
+ 3.A. Lafuma and D. Quéré, Nat. Mater. 2, 457 ?2003.
 
